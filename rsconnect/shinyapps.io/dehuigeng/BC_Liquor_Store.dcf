@@ -1,0 +1,13 @@
+name: BC_Liquor_Store
+title: BC_Liquor_Store
+username:
+account: dehuigeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5287302
+bundleId: 5347651
+url: https://dehuigeng.shinyapps.io/BC_Liquor_Store/
+when: 1639006945.80205
+lastSyncTime: 1639006945.80207
+asMultiple: FALSE
+asStatic: FALSE
